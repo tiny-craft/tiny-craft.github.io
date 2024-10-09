@@ -1,10 +1,11 @@
 ---
-title: Tiny RDM用户手册：如何快速筛选和定位Redis Key    
+title: Tiny RDM用户手册：如何快速筛选和定位Redis Key
 categories: 文章
-date: 2024-04-06 14:30:58
 tags:
-    - Tiny RDM
-    - 开源
+  - Tiny RDM
+  - 开源
+abbrlink: 4c51dcb6
+date: 2024-04-06 14:30:58
 ---
 
 Tiny RDM的键列表提供了筛选和匹配查询的功能。通过筛选和查询，可以快速定位到你需要操作的键，减少额外的扫描。  

@@ -1,10 +1,11 @@
 ---
 title: 让Golang在桌面端起飞，盘点使用Wails开发优势与不足
 categories: 文章
+tags:
+  - Golang
+  - Wails
+abbrlink: '93891270'
 date: 2024-01-16 21:40:15
-tags: 
-    - Golang
-    - Wails
 ---
 Wails作为一个使用Golang开发跨平台桌面端的框架，几乎是目前Gopher唯一的选择，当然也有其他框架可选，但是个人感觉都不太成熟。本人使用Wails开发[Tiny RDM](https://redis.tinycraft.cc/)不知不觉已有半年，现就这段接触使用时间来做个大概总结分享。
 ### 优点

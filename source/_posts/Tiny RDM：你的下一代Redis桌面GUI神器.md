@@ -1,9 +1,14 @@
 ---
 title: Tiny RDM：你的下一代Redis桌面GUI神器
 categories: 文章
-date: 2024-01-13 18:30:09
 tags:
-    - Tiny RDM
+  - Tiny RDM
+keywords: 'Tiny RDM,Redis,桌面软件,Redis工具'
+description: Redis GUI工具Tiny RDM软件产品介绍
+cover: posts/a4b95a2c/light_zh.png
+sticky: 200
+abbrlink: a4b95a2c
+date: 2024-01-13 18:30:09
 ---
 >开源/免费/高颜值/跨平台/轻量/功能齐全，集众多优点于一身的Redis GUI工具，你确定不试用一下吗？
 

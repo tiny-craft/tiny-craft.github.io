@@ -1,10 +1,11 @@
 ---
 title: Tiny RDM惯例更新，谈谈对它现状的一些思考和未来规划
 categories: 文章
-date: 2024-04-12 14:39:20
 tags:
-    - Tiny RDM
-    - 开源
+  - Tiny RDM
+  - 开源
+abbrlink: ce193b00
+date: 2024-04-12 14:39:20
 ---
 > 我是Lykin，一个热衷于折腾的跨端全栈独立开发者，目前在摸索和践行开源与独立开发。
 

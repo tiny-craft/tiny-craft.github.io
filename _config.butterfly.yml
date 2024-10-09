@@ -187,7 +187,7 @@ subtitle:
 # 首頁文章佈局
 # 1: 行佈局
 # 2: 列布局
-index_layout: 1
+index_layout: 3
 
 # 在首頁顯示文章簡介
 # 1: 描述
@@ -488,7 +488,7 @@ copy:
 # 需要安裝 hexo-wordcount 插件
 wordcount:
   # 是否啟用字數統計
-  enable: false
+  enable: true
   # 在文章元信息中顯示字數統計
   post_wordcount: true
   # 在文章元信息中顯示閲讀時間
@@ -916,7 +916,7 @@ display_mode: light
 # 美化文章內容的配置
 beautify:
   # 是否啟用美化
-  enable: false
+  enable: true
   # 指定美化的範圍 (site 或 post)
   field: post
   # 指定標題前綴圖標，如 '\f0c1'
@@ -964,7 +964,7 @@ activate_power_mode:
 # 參見: https://github.com/hustcc/ribbon.js
 canvas_ribbon:
   # 是否啟用 canvas_ribbon
-  enable: false
+  enable: true
   # ribbon 的大小
   size: 150
   # ribbon 的不透明度 (0 ~ 1)
@@ -1135,7 +1135,7 @@ pangu:
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
   # 是否啟用 Lazyload
-  enable: false
+  enable: true
   # 指定使用 Lazyload 的範圍 (site 或 post)
   field: site
   placeholder:

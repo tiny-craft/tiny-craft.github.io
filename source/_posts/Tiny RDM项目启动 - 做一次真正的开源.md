@@ -1,10 +1,12 @@
 ---
 title: Tiny RDM项目启动 - 做一次真正的开源
-date: 2024-01-09 15:04:54
 categories: 文章
 tags:
-    - Tiny RDM
-    - 独立开发
+  - Tiny RDM
+  - 独立开发
+sticky: 100
+abbrlink: f9de0750
+date: 2024-01-09 15:04:54
 ---
 - ## 项目介绍
 Tiny RDM是我个人开发的Redis桌面客户端，全名Redis Desktop Manager。该项目完全免费开源，截至写这篇文章之时，已开发超过半年，获得2.8k star，并且仍在积极维护中。

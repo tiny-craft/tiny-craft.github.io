@@ -1,9 +1,11 @@
 ---
 title: Tiny RDM1.1.13版本的那些事
-date: 2024-05-24 15:09:21
+categories: 文章
 tags:
-    - Tiny RDM
-    - 开源
+  - Tiny RDM
+  - 开源
+abbrlink: 2c6db847
+date: 2024-05-24 15:09:21
 ---
 ### 关于更新内容
 
