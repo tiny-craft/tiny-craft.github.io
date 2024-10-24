@@ -290,7 +290,7 @@ footer:
     # 網站創建年份
     since: 2023
   # 自定義文本
-  custom_text:
+  custom_text: <a href="https://beian.miit.gov.cn/">粤ICP备2024270137号-5</a>
   # 主題和框架的版權聲明
   copyright: true
 

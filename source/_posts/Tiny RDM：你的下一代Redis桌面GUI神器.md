@@ -5,7 +5,7 @@ tags:
   - Tiny RDM
 keywords: 'Tiny RDM,Redis,桌面软件,Redis工具'
 description: Redis GUI工具Tiny RDM软件产品介绍
-cover: posts/a4b95a2c/light_zh.png
+cover: light_zh.png
 sticky: 200
 abbrlink: a4b95a2c
 date: 2024-01-13 18:30:09

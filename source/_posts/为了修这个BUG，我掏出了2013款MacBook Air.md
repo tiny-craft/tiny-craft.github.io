@@ -4,7 +4,7 @@ categories: 文章
 tags:
   - Tiny RDM
   - 开源
-cover: posts/b5d27bf5/macbook_air.png
+cover: macbook_air.png
 abbrlink: b5d27bf5
 date: 2024-02-25 11:40:15
 ---
